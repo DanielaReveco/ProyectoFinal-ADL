@@ -1,0 +1,16 @@
+{
+  "name": "proyfinal-frontend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@cucumber/cucumber": "^12.1.0",
+    "@playwright/test": "^1.54.1",
+    "@types/node": "^24.1.0",
+    "cucumber-html-reporter": "^7.2.0"
+  }
+}
